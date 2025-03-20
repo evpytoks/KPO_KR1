@@ -1,0 +1,15 @@
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/KPO_KR.csproj.AssemblyReference.cache
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/KPO_KR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/KPO_KR.AssemblyInfoInputs.cache
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/KPO_KR.AssemblyInfo.cs
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/KPO_KR.csproj.CoreCompileInputs.cache
+/Users/evpytoks/KPO_KR/KPO_KR/bin/Debug/net7.0/KPO_KR
+/Users/evpytoks/KPO_KR/KPO_KR/bin/Debug/net7.0/KPO_KR.deps.json
+/Users/evpytoks/KPO_KR/KPO_KR/bin/Debug/net7.0/KPO_KR.runtimeconfig.json
+/Users/evpytoks/KPO_KR/KPO_KR/bin/Debug/net7.0/KPO_KR.dll
+/Users/evpytoks/KPO_KR/KPO_KR/bin/Debug/net7.0/KPO_KR.pdb
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/KPO_KR.dll
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/refint/KPO_KR.dll
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/KPO_KR.pdb
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/KPO_KR.genruntimeconfig.cache
+/Users/evpytoks/KPO_KR/KPO_KR/obj/Debug/net7.0/ref/KPO_KR.dll
