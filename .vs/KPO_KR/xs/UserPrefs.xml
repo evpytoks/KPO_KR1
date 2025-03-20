@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{35A50607-EEA7-49B0-97A1-D49125F0B2F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KPO_KR/ChangeBankAccountNameCommand.cs">
+    <Files>
+      <File FileName="KPO_KR/Bank.cs" Line="11" Column="51" />
+      <File FileName="KPO_KR/BankAccount.cs" />
+      <File FileName="KPO_KR/Category.cs" />
+      <File FileName="KPO_KR/Operation.cs" Line="1" Column="1" />
+      <File FileName="KPO_KR/Program.cs" Line="20" Column="1" />
+      <File FileName="KPO_KR/Utils/ConsoleWork.cs" Line="38" Column="10" />
+      <File FileName="KPO_KR/ICommand.cs" Line="5" Column="20" />
+      <File FileName="KPO_KR/CreateBankAccountCommand.cs" Line="1" Column="1" />
+      <File FileName="KPO_KR/ChangeBankAccountNameCommand.cs" Line="8" Column="60" />
+      <File FileName="KPO_KR/DeleteBankAccountCommand.cs" Line="7" Column="6" />
+      <File FileName="KPO_KR/CreateOperationCommand.cs" Line="7" Column="6" />
+      <File FileName="KPO_KR/ChangeOperationDescriptionCommand.cs" Line="13" Column="10" />
+      <File FileName="KPO_KR/DeleteOperationCommand.cs" Line="6" Column="26" />
+      <File FileName="KPO_KR/CreateCategoryCommand.cs" Line="3" Column="1" />
+      <File FileName="KPO_KR/ChangeCategoryNameCommand.cs" Line="7" Column="6" />
+      <File FileName="KPO_KR/DeleteCategoryCommand.cs" Line="15" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KPO_KR" expanded="True">
+            <Node name="KPO_KR" expanded="True">
+              <Node name="Utils" expanded="True" />
+              <Node name="ChangeBankAccountNameCommand.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.KPO__KR PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
